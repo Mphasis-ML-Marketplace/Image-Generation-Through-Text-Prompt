@@ -10,4 +10,4 @@ Text-guided Image generation helps in creating high-quality ethical images from 
 Need customized Machine Learning and Deep Learning solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-xfentzfe7vekc)
+The product can be found [here]([https://aws.amazon.com/marketplace/pp/prodview-xfentzfe7vekc](https://aws.amazon.com/marketplace/pp/prodview-4svzsrobdh5lu?sr=0-1&ref_=beagle&applicationId=AWSMPContessa))
